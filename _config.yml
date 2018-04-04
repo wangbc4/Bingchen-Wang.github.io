@@ -7,3 +7,10 @@ navigation:
     url: /
   - title: Setup
     url: setup
+navigation:
+  - title: Home
+    url: /
+  - title: Setup
+    url: setup
+  - title: assignment
+    url: Bingchen Wang
